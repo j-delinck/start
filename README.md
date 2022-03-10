@@ -1,0 +1,2 @@
+# start
+Everyone starts somewhere
